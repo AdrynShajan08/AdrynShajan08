@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **edryneshajan8@gmail.com**
 
-- ✨ Fun fact **you'll most likely see me on a turf playing football.**
+- ✨ Fun fact **you might most likely see me on a turf playing football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
