@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on projects on **Data Science**
 
-- 🌱 I’m looking for help with learning **TensorFlow and Blockchain**
+- 🌱 I’m looking for help with learning **Kubernetes and Blockchain**
 
 - ☕ I spend my time on **HackerRank, Kaggle or Coursera**
 
