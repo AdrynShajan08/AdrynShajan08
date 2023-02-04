@@ -1,4 +1,4 @@
-<h2>Heyya, I'm Edryn Shajan</h2>
+<h2>Heyya, I'm Edryn Shajan Eazhakadan</h2>
 <h3>An aspiring Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on projects on **Data Science**
