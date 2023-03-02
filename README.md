@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/edryn-eazhakadan-8a01b1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edryn eazhakadan" height="30" width="40" /></a>
-<a href="https://twitter.com/adrynshajan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edrynshajan08" height="30" width="40" /></a>
+<a href="https://twitter.com/AdrynShajan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrynshajan08" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/edryneazhakadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="edryn eazhakadan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/edrynshajan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edrynshajan08" height="30" width="40" /></a>
 </p>
