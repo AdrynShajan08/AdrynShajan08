@@ -9,9 +9,9 @@
 
 - 👨‍💻 My projects are available at [https://github.com/AdrynShajan08?tab=repositories](https://github.com/AdrynShajan08?tab=repositories)
 
-- 📫 How to reach me **edryneshajan8@gmail.com**
+- 📫 How to reach me: **edryneshajan8@gmail.com**
 
-- ✨ Fun fact **you might most likely see me on a turf playing football.**
+- ✨ Fun fact: **you will most likely meet me at a turf playing football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
