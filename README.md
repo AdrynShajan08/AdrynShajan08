@@ -1,9 +1,9 @@
 <h2>Heyya, I'm Edryn Shajan Eazhakadan</h2>
-<h3>An aspiring Artificial Intelligence Engineer</h3>
+<h3>An engineering grad</h3>
 
 - 🔭 I’m currently working on projects on **Data Science**
 
-- 🌱 I’m looking for help with learning **Kubernetes and Blockchain**
+- 🌱 I’m looking for help with learning **Docker and Kubernetes**
 
 - ☕ I spend my time on **HackerRank, Kaggle or Coursera**
 
